@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Supertek Softwere Solutions Pvt Ltd**
 
+- 🎓 I’m Currently Studying at **Indian Institute of Technology Patna**
+
 - 🌱 I’m currently learning **Next JS**
 
 - 👯 I’m looking to collaborate on **AI Projects**
