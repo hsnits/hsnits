@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Hasan</h1>
 <h3 align="left">A Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **PlantAIHealthAnalysis**
+- 🔭 I’m currently working on **Supertek Softwere Solutions Pvt Ltd**
 
 - 🌱 I’m currently learning **Next JS**
 
