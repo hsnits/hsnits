@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Hasan</h1>
-<h3 align="center">A Full Stack developer from India</h3>
+<h3 align="left">A Full Stack developer from India</h3>
 
 - 🔭 I’m currently working on **PlantAIHealthAnalysis**
 
